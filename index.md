@@ -14,10 +14,10 @@ A finance and economics graduate exploring the world of tech and fintech.
 
 ## My CS education:
 
-- 2021 Complete Python Bootcamp: From Zero to Hero in Python | Udemy -  [July 2021](https://www.udemy.com/certificate/UC-da0f4a16-ca2f-40a0-a0f4-307246b82c59/)
+- 2021 Complete Python Bootcamp: From Zero to Hero in Python — Udemy [July 2021](https://www.udemy.com/certificate/UC-da0f4a16-ca2f-40a0-a0f4-307246b82c59/)
 
-- Introduction to Java Programming | UC3M on edX - [April 2022](https://credentials.edx.org/credentials/20e2a83991cd493690d4ad6b923c0b88/)
+- Introduction to Java Programming — UC3M on edX [April 2022](https://credentials.edx.org/credentials/20e2a83991cd493690d4ad6b923c0b88/)
 
 *In progress:*
 
-- How to Code: Simple Data | UBC on edX
+- Programming Languages, Part A — University of Washington on Coursera
