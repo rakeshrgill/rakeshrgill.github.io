@@ -18,6 +18,8 @@ A finance and economics graduate exploring the world of tech and fintech.
 
 - Introduction to Java Programming — UC3M on edX [April 2022](https://credentials.edx.org/credentials/20e2a83991cd493690d4ad6b923c0b88/)
 
+- Programming Languages, Part A — University of Washington on Coursera [November 2022](https://www.coursera.org/account/accomplishments/certificate/YSU4TWCVGRK6)
+
 *In progress:*
 
-- Programming Languages, Part A — University of Washington on Coursera
+- Programming Languages, Part B — University of Washington on Coursera
